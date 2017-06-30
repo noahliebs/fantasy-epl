@@ -1,0 +1,7 @@
+elements
+element_types
+phases
+teams
+events
+game-settings
+total-players
