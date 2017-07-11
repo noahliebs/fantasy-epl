@@ -1,0 +1,16 @@
+Name,CART,LDA,GNB,LR,KNN,SVC
+Steve Cook,-10,0,0,0,0,1
+Michael Keane,0,0,0,0,0,1
+Gary Cahill,0,0,1,0,1,1
+Scott Dann,-1,-1,-1,0,1,1
+Seamus Coleman,1,-1,1,1,0,1
+Michael Dawson,1,0,0,0,1,1
+Harry Maguire,1,1,1,0,-1,1
+Aleksandar Kolarov,1,1,0,1,1,1
+Patrick van Aanholt,1,-1,1,0,1,1
+Toby Alderweireld,1,-1,-1,-1,1,1
+Craig Dawson,1,1,0,1,1,1
+Chris Brunt,0,1,1,1,1,1
+Daryl Janmaat,1,1,-1,-1,1,1
+Marcos Alonso,1,-1,1,1,1,1
+David Luiz Moreira Marinho,1,1,-1,1,0,1

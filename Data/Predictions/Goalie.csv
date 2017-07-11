@@ -1,0 +1,6 @@
+Name,CART,LDA,GNB,LR,KNN,SVC
+Artur Boruc,0,0,1,1,0,1
+Joel Robles,0,1,1,1,-1,1
+Fraser Forster,1,0,0,1,-1,1
+Heurelho Gomes,-1,-1,1,-1,-1,1
+Ben Foster,0,0,0,0,-1,1

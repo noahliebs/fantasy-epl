@@ -1,0 +1,76 @@
+Name,CART,LDA,GNB,LR,KNN,SVC
+Alexis Sánchez,0,-1,0,-1,0,1
+Theo Walcott,-1,-1,-1,-1,-1,1
+Mesut Özil,0,0,0,0,-1,1
+Aaron Ramsey,1,1,1,1,1,1
+Jack Wilshere,0,0,-1,0,-1,1
+Alex Iwobi,0,0,-1,0,0,1
+Granit Xhaka,1,0,-1,0,-1,1
+Harry Arter,1,0,1,0,0,1
+Junior Stanislas,-1,1,1,1,0,1
+Joshua King,1,-1,-1,-1,0,1
+Scott Arfield,1,1,-1,1,-1,1
+Eden Hazard,0,0,0,0,0,1
+Cesc Fàbregas,1,0,0,0,1,1
+Willian Borges Da Silva,0,-1,-1,0,-1,1
+Pedro Rodríguez Ledesma,0,-1,0,0,0,1
+Victor Moses,1,1,0,0,-1,1
+Jason Puncheon,1,1,0,1,1,1
+Wilfried Zaha,1,1,0,1,1,1
+Yohan Cabaye,1,1,1,1,1,1
+Andros Townsend,-1,1,0,1,0,1
+Kevin Mirallas,-1,0,-1,0,-1,1
+Ross Barkley,1,0,0,0,1,1
+Gareth Barry,1,1,1,1,0,1
+Robert Snodgrass,0,1,-1,1,-1,1
+Sam Clucas,0,1,1,1,1,1
+Riyad Mahrez,1,0,-1,0,-1,1
+Marc Albrighton,0,0,-1,0,0,1
+Demarai Gray,1,0,1,0,1,1
+Joe Allen,0,1,1,1,1,1
+Philippe Coutinho,0,-1,-1,-1,0,1
+Emre Can,1,0,1,0,1,1
+Adam Lallana,-1,-1,-1,-1,-1,1
+James Milner,1,1,1,1,0,1
+Sadio Mané,1,1,-1,-1,0,1
+Raheem Sterling,-1,0,0,0,-1,1
+David Silva,0,0,0,0,-1,1
+Gnegneri Yaya Touré,-1,1,-1,1,-1,1
+Fernando Luiz Rosa,0,1,1,1,0,1
+Kevin De Bruyne,0,0,0,0,0,1
+Manuel Agudo Durán,1,1,1,1,0,1
+Juan Mata,0,0,1,0,1,1
+Jesse Lingard,1,0,1,0,1,1
+Anthony Martial,-1,0,-1,0,-1,1
+Henrikh Mkhitaryan,1,1,-1,1,1,1
+Marten de Roon,1,1,1,1,0,1
+Nathan Redmond,1,0,-1,0,1,1
+James Ward-Prowse,1,0,-1,0,-1,1
+Dusan Tadic,0,0,0,0,-1,1
+Jay Rodriguez,1,-1,1,-1,0,1
+Charlie Adam,-1,1,1,1,0,1
+Jonathan Walters,1,1,1,1,1,1
+Marko Arnautovic,1,0,-1,0,-1,1
+Xherdan Shaqiri,0,1,1,1,-1,1
+Wahbi Khazri,-1,1,1,1,1,1
+Gylfi Sigurdsson,0,0,0,0,0,1
+Wayne Routledge,1,1,-1,1,-1,1
+André Ayew,0,1,1,1,0,1
+Leroy Fer,1,1,1,1,1,1
+Eric Dier,1,0,1,0,1,1
+Nacer Chadli,1,1,-1,1,-1,1
+Christian Eriksen,0,0,0,0,0,1
+Victor Wanyama,1,0,1,0,1,1
+Etienne Capoue,0,1,1,1,-1,1
+James Morrison,1,1,-1,1,-1,1
+James McClean,1,-1,1,1,0,1
+Matt Phillips,-1,1,-1,1,0,1
+Manuel Lanzini,-1,0,0,0,0,1
+Michail Antonio,-1,1,-1,1,-1,1
+Abdoulaye Doucouré,1,1,1,1,1,1
+Georginio Wijnaldum,-1,0,0,0,1,1
+Leroy Sané,1,0,-1,0,-1,1
+Gastón Ramírez,1,1,-1,1,-1,1
+Paul Pogba,0,0,0,0,-1,1
+Ryan Fraser,0,0,-1,0,-1,1
+Sofiane Boufal,-1,1,1,1,1,1
