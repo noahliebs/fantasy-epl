@@ -1,6 +1,22 @@
 Name	CART	LDA	GNB	LR	KNN	SVC
-Artur Boruc	0	0	1	1	0	1
-Joel Robles	0	1	1	1	-1	1
-Fraser Forster	1	0	0	1	-1	1
-Heurelho Gomes	-1	-1	1	-1	-1	1
-Ben Foster	0	0	0	0	-1	1
+Petr Cech	1	0	1	0	0	1
+Artur Boruc	-1	1	-1	1	1	1
+Adam Federici	0	1	-1	0	0	1
+Tom Heaton	1	0	0	0	1	1
+Thibaut Courtois	0	1	-1	1	1	1
+Wayne Hennessey	0	1	-1	1	1	1
+Steve Mandanda	-1	1	1	1	1	1
+Joel Robles	-1	1	-1	1	-1	1
+Maarten Stekelenburg	0	1	0	1	1	1
+Eldin Jakupovic	1	1	1	1	1	1
+Kasper Schmeichel	0	0	0	0	1	1
+Ron-Robert Zieler	0	1	-1	1	1	1
+Simon Mignolet	1	1	0	1	1	1
+Loris Karius	1	1	1	1	1	1
+Willy Caballero	1	1	1	1	-1	1
+David de Gea	1	0	0	1	-1	1
+Sergio Romero	-1	1	1	1	-1	1
+Víctor Valdés	1	0	-1	0	1	1
+Fraser Forster	-1	1	-1	1	-1	1
+Shay Given	-1	1	-1	1	-1	1
+Jack Butland	1	1	-1	1	1	1
